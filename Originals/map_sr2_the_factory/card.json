@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_the_factory",
+  "scope": "public",
+  "name": {
+    "text": "Fun Factory",
+    "data": {
+      "ru": {
+        "original": "Fun Factory",
+        "translation": "Fun Factory"
+      },
+      "es": {
+        "original": "Fun Factory",
+        "translation": "Fun Factory"
+      },
+      "de": {
+        "original": "Fun Factory",
+        "translation": "Fun Factory"
+      },
+      "pt": {
+        "original": "Fun Factory",
+        "translation": "Fun Factory"
+      },
+      "fr": {
+        "original": "Fun Factory",
+        "translation": "Fun Factory"
+      }
+    }
+  },
+  "description": {
+    "text": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+    "data": {
+      "ru": {
+        "original": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+        "translation": "Устройте в этой области промышленную революцию! Два куба и база."
+      },
+      "es": {
+        "original": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+        "translation": "La cuna de la revolución industrial.\nDos generadores y un núcleo."
+      },
+      "de": {
+        "original": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+        "translation": "Startet in dieser Arena eine industrielle Revolution. Zwei Generatoren und eine Basis."
+      },
+      "pt": {
+        "original": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+        "translation": "Dê início a uma revolução industrial nesta arena. Dois Cubos e uma Base."
+      },
+      "fr": {
+        "original": "Start an industrial revolution in this arena. Two Cubes and a Base.",
+        "translation": "La révolution industrielle est en marche ! Deux cubes et une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-fun-factory-thumb",
+  "large_image": "Gui/Maps/arena-fun-factory-full"
+}
