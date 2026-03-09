@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_block_letters",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Block Letters",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Block Letters",
+        "translation": "(DRAFT) Block Letters"
+      },
+      "es": {
+        "original": "(DRAFT) Block Letters",
+        "translation": "(DRAFT) Block Letters"
+      },
+      "de": {
+        "original": "(DRAFT) Block Letters",
+        "translation": "(DRAFT) Block Letters"
+      },
+      "fr": {
+        "original": "(DRAFT) Block Letters",
+        "translation": "(DRAFT) Block Letters"
+      },
+      "pt": {
+        "original": "(DRAFT) Block Letters",
+        "translation": "(DRAFT) Block Letters"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) For Video Team",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "es": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "de": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "fr": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "pt": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) Para a Equipe de Vídeo"
+      }
+    }
+  },
+  "image": "Gui/Maps/Block-Keep",
+  "large_image": "Gui/Maps/Block-Keep"
+}

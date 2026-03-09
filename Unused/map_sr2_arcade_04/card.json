@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_arcade_04",
+  "scope": "public",
+  "name": {
+    "text": "Draft - High $core",
+    "data": {
+      "es": {
+        "original": "Draft - High $core",
+        "translation": "Draft - High $core"
+      },
+      "fr": {
+        "original": "Draft - High $core",
+        "translation": "Draft - High $core"
+      },
+      "de": {
+        "original": "Draft - High $core",
+        "translation": "Draft - High $core"
+      },
+      "pt": {
+        "original": "Draft - High $core",
+        "translation": "Draft - High $core"
+      },
+      "ru": {
+        "original": "Draft - High $core",
+        "translation": "Draft - High $core"
+      }
+    }
+  },
+  "description": {
+    "text": "Draft - One Base.",
+    "data": {
+      "es": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Un núcleo."
+      },
+      "fr": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Une base."
+      },
+      "de": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Eine Basis."
+      },
+      "ru": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - One Base."
+      },
+      "pt": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-crate-escape",
+  "large_image": "Gui/Maps/arena-crate-escape"
+}

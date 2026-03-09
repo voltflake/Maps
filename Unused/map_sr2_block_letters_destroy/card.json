@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_block_letters_destroy",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Block Letters Destroy",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Block Letters Destroy",
+        "translation": "(DRAFT) Block Letters Destroy"
+      },
+      "es": {
+        "original": "(DRAFT) Block Letters Destroy",
+        "translation": "(DRAFT) Block Letters Destroy"
+      },
+      "de": {
+        "original": "(DRAFT) Block Letters Destroy",
+        "translation": "(DRAFT) Block Letters Destroy"
+      },
+      "fr": {
+        "original": "(DRAFT) Block Letters Destroy",
+        "translation": "(DRAFT) Block Letters Destroy"
+      },
+      "pt": {
+        "original": "(DRAFT) Block Letters Destroy",
+        "translation": "(DRAFT) Block Letters Destroy"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) For Video Team",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "es": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "de": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "fr": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) For Video Team"
+      },
+      "pt": {
+        "original": "(DRAFT) For Video Team",
+        "translation": "(DRAFT) Para a Equipe de Vídeo"
+      }
+    }
+  },
+  "image": "Gui/Maps/Block-Keep",
+  "large_image": "Gui/Maps/Block-Keep"
+}
