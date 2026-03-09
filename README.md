@@ -110,16 +110,16 @@ Time Trials:
 - [x] map_tt_tony
 
 Other special maps:
-- [] map_sc_harbor_44
-- [] map_sr_mountain_express
-- [] map_sr_stone_temple
-- [] map_sr_wilsons_bay
-- [] map_sr2_arcade_04
-- [] map_sr2_block_letters
-- [] map_sr2_block_letters_destroy
-- [] map_sr2_heroes_playground
-- [] map_sr2_shuko_style_original
-- [] map_sr2_spanish_castle
-- [] map_tutorial
-- [] map_tutorial_fox_2
-- [] map_tutorial_fox_test
+- [x] map_sc_harbor_44
+- [x] map_sr2_arcade_04
+- [x] map_sr2_block_letters
+- [x] map_sr2_block_letters_destroy
+- [x] map_sr2_shuko_style_original
+- [x] map_sr_mountain_express
+- [x] map_sr_stone_temple
+- [x] map_sr_wilsons_bay
+- [x] map_tutorial
+- [x] map_tutorial_fox_2
+- [x] map_tutorial_fox_test
+- [ ] map_sr2_heroes_playground
+- [ ] map_sr2_spanish_castle
