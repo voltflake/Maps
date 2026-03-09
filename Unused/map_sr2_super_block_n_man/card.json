@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_super_block_n_man",
+  "scope": "public",
+  "name": {
+    "text": "(Draft) Super Block'N Man",
+    "data": {
+      "ru": {
+        "original": "(Draft) Super Block'N Man",
+        "translation": "(Draft) Super Block'N Man"
+      },
+      "es": {
+        "original": "(Draft) Super Block'N Man",
+        "translation": "(DRAFT) Super Block'N Man"
+      },
+      "de": {
+        "original": "(Draft) Super Block'N Man",
+        "translation": "(Draft) Super Block'N Man"
+      },
+      "pt": {
+        "original": "(Draft) Super Block'N Man",
+        "translation": "(Draft) Super Block'N Man"
+      },
+      "fr": {
+        "original": "(Draft) Super Block'N Man",
+        "translation": "(Draft) Super Block'N Man"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {
+      "ru": {
+        "original": "No Greek legends, just a selection of Heroes.  Two Cubes and a Base.",
+        "translation": "Здесь нет мифов, только выбор героев. Два куба и база."
+      },
+      "es": {
+        "original": "No Greek legends, just a selection of Heroes.  Two Cubes and a Base.",
+        "translation": "Aquí no encontrarás deidades griegas sino héroes cúbicos. Dos generadores y un núcleo."
+      },
+      "de": {
+        "original": "No Greek legends, just a selection of Heroes.  Two Cubes and a Base.",
+        "translation": "Statt griechischer Legenden habt ihr Helden hier das Sagen. Zwei Generatoren und eine Basis."
+      },
+      "pt": {
+        "original": "No Greek legends, just a selection of Heroes.  Two Cubes and a Base.",
+        "translation": "Aqui não tem nenhum deus grego, só um monte de Heróis destemidos. Dois Cubos e uma Base."
+      },
+      "fr": {
+        "original": "No Greek legends, just a selection of Heroes.  Two Cubes and a Base.",
+        "translation": "Les divinités grecques ont laissé place aux héros. Deux cubes et une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-mount-olympus",
+  "large_image": "Gui/Maps/arena-mount-olympus"
+}

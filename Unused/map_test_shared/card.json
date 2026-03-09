@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_test_shared",
+  "scope": "public",
+  "name": {
+    "text": "Debug Shared Match",
+    "data": {
+      "ru": {
+        "original": "Debug Shared Match",
+        "translation": "Совместный матч для отладки"
+      },
+      "es": {
+        "original": "Debug Shared Match",
+        "translation": "Depurar partida compartida"
+      },
+      "de": {
+        "original": "Debug Shared Match",
+        "translation": "Debug Shared Match"
+      },
+      "pt": {
+        "original": "Debug Shared Match",
+        "translation": "Debug Shared Match"
+      },
+      "fr": {
+        "original": "Debug Shared Match",
+        "translation": "Debug Shared Match"
+      }
+    }
+  },
+  "description": {
+    "text": "Using in Debug Shared Match",
+    "data": {
+      "ru": {
+        "original": "Using in Debug Shared Match",
+        "translation": "Используется в совместном матче для отладки"
+      },
+      "es": {
+        "original": "Using in Debug Shared Match",
+        "translation": "En uso al depurar partida compartida"
+      },
+      "de": {
+        "original": "Using in Debug Shared Match",
+        "translation": "Using in Debug Shared Match"
+      },
+      "pt": {
+        "original": "Using in Debug Shared Match",
+        "translation": "Using in Debug Shared Match"
+      },
+      "fr": {
+        "original": "Using in Debug Shared Match",
+        "translation": "Using in Debug Shared Match"
+      }
+    }
+  },
+  "image": "Gui/Maps/map_sr2_valentine",
+  "large_image": "Gui/Maps/map_sr2_valentine"
+}

@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_the_bridge",
+  "scope": "public",
+  "name": {
+    "text": "The Bridge",
+    "data": {
+      "ru": {
+        "original": "The Bridge",
+        "translation": "The Bridge"
+      },
+      "es": {
+        "original": "The Bridge",
+        "translation": "The Bridge"
+      },
+      "de": {
+        "original": "The Bridge",
+        "translation": "The Bridge"
+      },
+      "pt": {
+        "original": "The Bridge",
+        "translation": "The Bridge"
+      },
+      "fr": {
+        "original": "The Bridge",
+        "translation": "The Bridge"
+      }
+    }
+  },
+  "description": {
+    "text": "Take it to the bridge! Two Cubes and a Base.",
+    "data": {
+      "ru": {
+        "original": "Take it to the bridge! Two Cubes and a Base.",
+        "translation": "Доберись до моста! Два куба и база."
+      },
+      "es": {
+        "original": "Take it to the bridge! Two Cubes and a Base.",
+        "translation": "¡No te tires del puente!\nDos generadores y un núcleo."
+      },
+      "de": {
+        "original": "Take it to the bridge! Two Cubes and a Base.",
+        "translation": "Über sieben Brücken musst du gehn! Zwei Generatoren und eine Basis."
+      },
+      "pt": {
+        "original": "Take it to the bridge! Two Cubes and a Base.",
+        "translation": "Aventure-se nas alturas e não olhe para baixo! Dois Cubos e uma Base."
+      },
+      "fr": {
+        "original": "Take it to the bridge! Two Cubes and a Base.",
+        "translation": "Tout le monde sur le pont ! Deux cubes et une base."
+      }
+    }
+  },
+  "image": "",
+  "large_image": ""
+}

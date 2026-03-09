@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_the_ridge",
+  "scope": "public",
+  "name": {
+    "text": "The Ridge",
+    "data": {
+      "ru": {
+        "original": "The Ridge",
+        "translation": "The Ridge"
+      },
+      "es": {
+        "original": "The Ridge",
+        "translation": "The Ridge"
+      },
+      "de": {
+        "original": "The Ridge",
+        "translation": "The Ridge"
+      },
+      "pt": {
+        "original": "The Ridge",
+        "translation": "The Ridge"
+      },
+      "fr": {
+        "original": "The Ridge",
+        "translation": "The Ridge"
+      }
+    }
+  },
+  "description": {
+    "text": "[DRAFT]",
+    "data": {
+      "ru": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "es": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "de": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "pt": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "fr": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      }
+    }
+  },
+  "image": "",
+  "large_image": ""
+}

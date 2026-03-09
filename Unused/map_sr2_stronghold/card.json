@@ -1,0 +1,65 @@
+{
+  "category": "map",
+  "_id": "map_sr2_stronghold",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Stronghold",
+    "data": {
+      "en": {
+        "original": "",
+        "translation": ""
+      },
+      "de": {
+        "original": "(DRAFT) Stronghold",
+        "translation": "(DRAFT) Stronghold"
+      },
+      "pt": {
+        "original": "(DRAFT) Stronghold",
+        "translation": "(DRAFT) Stronghold"
+      },
+      "fr": {
+        "original": "(DRAFT) Stronghold",
+        "translation": "(DRAFT) Stronghold"
+      },
+      "es": {
+        "original": "(DRAFT) Stronghold",
+        "translation": "(DRAFT) Stronghold"
+      },
+      "ru": {
+        "original": "(DRAFT) Stronghold",
+        "translation": "(DRAFT) Stronghold"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+    "data": {
+      "en": {
+        "original": "",
+        "translation": ""
+      },
+      "de": {
+        "original": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+        "translation": "(DRAFT) Burgen so weit das Auge reicht! Zwei Generatoren und eine Basis."
+      },
+      "pt": {
+        "original": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+        "translation": "(DRAFT) Castelos para todo lado! Dois Cubos e uma Base."
+      },
+      "fr": {
+        "original": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+        "translation": "(DRAFT) Des châteaux à perte de vue ! Deux cubes et une base."
+      },
+      "es": {
+        "original": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+        "translation": "(DRAFT) ¡Construye castillos en el aire!\nDos generadores y un núcleo."
+      },
+      "ru": {
+        "original": "(DRAFT) Castles everywhere! Two Cubes and a Base.",
+        "translation": "(DRAFT) Castles everywhere! Two Cubes and a Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/map_stronghold",
+  "large_image": "Gui/Maps/map_stronghold"
+}

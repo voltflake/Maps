@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_crate_escape",
+  "scope": "public",
+  "name": {
+    "text": "Draft - The Crate Escape",
+    "data": {
+      "es": {
+        "original": "Draft - The Crate Escape",
+        "translation": "Draft - The Crate Escape"
+      },
+      "fr": {
+        "original": "Draft - The Crate Escape",
+        "translation": "Draft - The Crate Escape"
+      },
+      "de": {
+        "original": "Draft - The Crate Escape",
+        "translation": "Draft - The Crate Escape"
+      },
+      "pt": {
+        "original": "Draft - The Crate Escape",
+        "translation": "Draft - The Crate Escape"
+      },
+      "ru": {
+        "original": "Draft - The Crate Escape",
+        "translation": "Draft - The Crate Escape"
+      }
+    }
+  },
+  "description": {
+    "text": "Draft - One Base.",
+    "data": {
+      "es": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Un núcleo."
+      },
+      "fr": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Une base."
+      },
+      "de": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Eine Basis."
+      },
+      "ru": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - One Base."
+      },
+      "pt": {
+        "original": "Draft - One Base.",
+        "translation": "Draft - Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-crate-escape",
+  "large_image": "Gui/Maps/arena-crate-escape"
+}

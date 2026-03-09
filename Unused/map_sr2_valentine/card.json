@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_valentine",
+  "scope": "public",
+  "name": {
+    "text": "Love Hurts",
+    "data": {
+      "ru": {
+        "original": "Love Hurts",
+        "translation": "Love Hurts"
+      },
+      "es": {
+        "original": "Love Hurts",
+        "translation": "Love Hurts"
+      },
+      "de": {
+        "original": "Love Hurts",
+        "translation": "Love Hurts"
+      },
+      "pt": {
+        "original": "Love Hurts",
+        "translation": "Love Hurts"
+      },
+      "fr": {
+        "original": "Love Hurts",
+        "translation": "Love Hurts"
+      }
+    }
+  },
+  "description": {
+    "text": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+    "data": {
+      "ru": {
+        "original": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+        "translation": "Резня в День святого Валентина. Что может быть романтичнее? Два куба и база."
+      },
+      "es": {
+        "original": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+        "translation": "Un escenario romántico y bélico para el día de San Valentín.\nUn generador y un núcleo."
+      },
+      "de": {
+        "original": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+        "translation": "Ein Blutbad am Valentinstag. Was könnte romantischer sein? Ein Generator und eine Basis."
+      },
+      "pt": {
+        "original": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+        "translation": "Um banho de sangue no Dia de São Valentim. O que poderia ser mais romântico? Um Cubo e uma Base."
+      },
+      "fr": {
+        "original": "A bloodbath on Valentine's Day. What could be more romantic? One Cube and a Base.",
+        "translation": "Rien de plus romantique qu'un bain de sang pour la Saint-Valentin ! Un cube et une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-love-hurts-thumb",
+  "large_image": "Gui/Maps/arena-love-hurts-full"
+}

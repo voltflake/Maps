@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_nom_nom_nom",
+  "scope": "public",
+  "name": {
+    "text": "Nom Nom Nom",
+    "data": {
+      "ru": {
+        "original": "Nom Nom Nom",
+        "translation": "Nom Nom Nom"
+      },
+      "es": {
+        "original": "Nom Nom Nom",
+        "translation": "Nom Nom Nom"
+      },
+      "de": {
+        "original": "Nom Nom Nom",
+        "translation": "Nom Nom Nom"
+      },
+      "fr": {
+        "original": "Nom Nom Nom",
+        "translation": "Nom Nom Nom"
+      },
+      "pt": {
+        "original": "Nom Nom Nom",
+        "translation": "Nom Nom Nom"
+      }
+    }
+  },
+  "description": {
+    "text": "Avoid getting cornered and having your health devoured. One Base.",
+    "data": {
+      "ru": {
+        "original": "Avoid getting cornered and having your health devoured. One Base.",
+        "translation": "Хочешь жить — не дай врагу загнать себя в угол. Одна база."
+      },
+      "es": {
+        "original": "Avoid getting cornered and having your health devoured. One Base.",
+        "translation": "¡Que no te devoren los fantasmas!\nUn núcleo."
+      },
+      "de": {
+        "original": "Avoid getting cornered and having your health devoured. One Base.",
+        "translation": "Lasst euch nicht in die Ecke treiben, sonst wird eure Gesundheit verschlungen. Eine Basis."
+      },
+      "fr": {
+        "original": "Avoid getting cornered and having your health devoured. One Base.",
+        "translation": "Attention aux ennemis cachés dans les coins ! Une base."
+      },
+      "pt": {
+        "original": "Avoid getting cornered and having your health devoured. One Base.",
+        "translation": "Evite ser encurralado e ter seus pontos de vida devorados. Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-nom-nom-nom",
+  "large_image": "Gui/Maps/arena-nom-nom-nom"
+}

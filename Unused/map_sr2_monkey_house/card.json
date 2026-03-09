@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_monkey_house",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Monkey House",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Monkey House",
+        "translation": "(DRAFT) Monkey House"
+      },
+      "es": {
+        "original": "(DRAFT) Monkey House",
+        "translation": "(DRAFT) Monkey House"
+      },
+      "de": {
+        "original": "(DRAFT) Monkey House",
+        "translation": "(DRAFT) Monkey House"
+      },
+      "fr": {
+        "original": "(DRAFT) Monkey House",
+        "translation": "(DRAFT) Monkey House"
+      },
+      "pt": {
+        "original": "(DRAFT) Monkey House",
+        "translation": "(DRAFT) Monkey House"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) ",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "es": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "de": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT) "
+      },
+      "fr": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "pt": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      }
+    }
+  },
+  "image": "Gui/Maps/valentine",
+  "large_image": "Gui/Maps/valentine"
+}

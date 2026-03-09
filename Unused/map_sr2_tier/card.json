@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_tier",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Tier",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Tier",
+        "translation": "(DRAFT) Tier"
+      },
+      "es": {
+        "original": "(DRAFT) Tier",
+        "translation": "(DRAFT) Tier"
+      },
+      "de": {
+        "original": "(DRAFT) Tier",
+        "translation": "(DRAFT) Rang"
+      },
+      "fr": {
+        "original": "(DRAFT) Tier",
+        "translation": "(DRAFT) Tier"
+      },
+      "pt": {
+        "original": "(DRAFT) Tier",
+        "translation": "(DRAFT) Tier"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT)",
+    "data": {
+      "ru": {
+        "original": "(DRAFT)",
+        "translation": "(DRAFT)"
+      },
+      "es": {
+        "original": "(DRAFT)",
+        "translation": "(DRAFT)"
+      },
+      "de": {
+        "original": "(DRAFT)",
+        "translation": "(DRAFT)"
+      },
+      "fr": {
+        "original": "(DRAFT)",
+        "translation": "(DRAFT)"
+      },
+      "pt": {
+        "original": "(DRAFT)",
+        "translation": "(DRAFT)"
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-blockageddon",
+  "large_image": "Gui/Maps/arena-blockageddon"
+}

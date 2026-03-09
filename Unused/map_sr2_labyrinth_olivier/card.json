@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_labyrinth_olivier",
+  "scope": "public",
+  "name": {
+    "text": "Draft - Labyrinth Oliver",
+    "data": {
+      "es": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "fr": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "de": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "pt": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "ru": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      }
+    }
+  },
+  "description": {
+    "text": "Draft - Labyrinth Oliver",
+    "data": {
+      "es": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "fr": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "de": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "ru": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      },
+      "pt": {
+        "original": "Draft - Labyrinth Oliver",
+        "translation": "Draft - Labyrinth Oliver"
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-crate-escape",
+  "large_image": "Gui/Maps/arena-crate-escape"
+}

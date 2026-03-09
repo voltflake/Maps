@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_cube_cove",
+  "scope": "public",
+  "name": {
+    "text": "Cube Cove",
+    "data": {
+      "ru": {
+        "original": "Cube Cove",
+        "translation": "Cube Cove"
+      },
+      "es": {
+        "original": "Cube Cove",
+        "translation": "Cube Cove"
+      },
+      "de": {
+        "original": "Cube Cove",
+        "translation": "Cube Cove"
+      },
+      "pt": {
+        "original": "Cube Cove",
+        "translation": "Cube Cove"
+      },
+      "fr": {
+        "original": "Cube Cove",
+        "translation": "Cube Cove"
+      }
+    }
+  },
+  "description": {
+    "text": "Island hopping BnL-style! Two Cubes and a Base.",
+    "data": {
+      "ru": {
+        "original": "Island hopping BnL-style! Two Cubes and a Base.",
+        "translation": "Перемещение по островам в стиле Block N Load! Два куба и база."
+      },
+      "es": {
+        "original": "Island hopping BnL-style! Two Cubes and a Base.",
+        "translation": "Una isla con barcos listos para zarpar.\nDos generadores y un núcleo."
+      },
+      "de": {
+        "original": "Island hopping BnL-style! Two Cubes and a Base.",
+        "translation": "Inselurlaub im BnL-Style! Zwei Generatoren und eine Basis."
+      },
+      "pt": {
+        "original": "Island hopping BnL-style! Two Cubes and a Base.",
+        "translation": "Salte de ilha em ilha no estilo Block N Load de ser! Dois Cubos e uma Base."
+      },
+      "fr": {
+        "original": "Island hopping BnL-style! Two Cubes and a Base.",
+        "translation": "Passez d'île en île de manière conventionnelle ou à la Block N Load ! Deux cubes et une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/map_cube_cove",
+  "large_image": "Gui/Maps/map_cube_cove"
+}

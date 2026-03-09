@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_frog_spawn",
+  "scope": "public",
+  "name": {
+    "text": "Frog Spawn",
+    "data": {
+      "ru": {
+        "original": "Frog Spawn",
+        "translation": "Frog Spawn"
+      },
+      "es": {
+        "original": "Frog Spawn",
+        "translation": "Frog Spawn"
+      },
+      "de": {
+        "original": "Frog Spawn",
+        "translation": "Frog Spawn"
+      },
+      "fr": {
+        "original": "Frog Spawn",
+        "translation": "Frog Spawn"
+      },
+      "pt": {
+        "original": "Frog Spawn",
+        "translation": "Frog Spawn"
+      }
+    }
+  },
+  "description": {
+    "text": "Avoid getting squashed by attacks as you cross the road. One Base.",
+    "data": {
+      "ru": {
+        "original": "Avoid getting squashed by attacks as you cross the road. One Base.",
+        "translation": "Когда переходишь дорогу, смотри по сторонам: враг не дремлет. Одна база."
+      },
+      "es": {
+        "original": "Avoid getting squashed by attacks as you cross the road. One Base.",
+        "translation": "¡Ten cuidado al cruzar la carretera!\nUn núcleo."
+      },
+      "de": {
+        "original": "Avoid getting squashed by attacks as you cross the road. One Base.",
+        "translation": "Passt auf, dass ihr nicht von Angriffen plattgemacht werdet, wenn ihr über die Straße geht. Eine Basis."
+      },
+      "fr": {
+        "original": "Avoid getting squashed by attacks as you cross the road. One Base.",
+        "translation": "Ne vous faites pas écraser en traversant la route ! Une base."
+      },
+      "pt": {
+        "original": "Avoid getting squashed by attacks as you cross the road. One Base.",
+        "translation": "Evite ser esmagado por ataques ao atravessar a rua. Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-frog-spawn",
+  "large_image": "Gui/Maps/arena-frog-spawn"
+}

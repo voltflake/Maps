@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_insandity",
+  "scope": "public",
+  "name": {
+    "text": "Insandity",
+    "data": {
+      "ru": {
+        "original": "Insandity",
+        "translation": "Insandity"
+      },
+      "es": {
+        "original": "Insandity",
+        "translation": "Insandity"
+      },
+      "de": {
+        "original": "Insandity",
+        "translation": "Insandity"
+      },
+      "fr": {
+        "original": "Insandity",
+        "translation": "Insandity"
+      },
+      "pt": {
+        "original": "Insandity",
+        "translation": "Insandity"
+      }
+    }
+  },
+  "description": {
+    "text": "Tunnel through or climb over the sand mountain. One Base.",
+    "data": {
+      "ru": {
+        "original": "Tunnel through or climb over the sand mountain. One Base.",
+        "translation": "Песчаная дюна. Можно воевать как на поверхности, так и в туннелях. Одна база."
+      },
+      "es": {
+        "original": "Tunnel through or climb over the sand mountain. One Base.",
+        "translation": "Cava un túnel o escala la montaña.\nUn núcleo."
+      },
+      "de": {
+        "original": "Tunnel through or climb over the sand mountain. One Base.",
+        "translation": "Grabt euch hindurch oder klettert über den Sandberg. Eine Basis."
+      },
+      "fr": {
+        "original": "Tunnel through or climb over the sand mountain. One Base.",
+        "translation": "Franchissez cette montagne de sable en creusant des tunnels ou en l'escaladant. Une base."
+      },
+      "pt": {
+        "original": "Tunnel through or climb over the sand mountain. One Base.",
+        "translation": "Cave um túnel ou escale a montanha de areia. Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-insandity-thumb",
+  "large_image": "Gui/Maps/arena-insandity-full"
+}

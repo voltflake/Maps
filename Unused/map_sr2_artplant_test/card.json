@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_artplant_test",
+  "scope": "public",
+  "name": {
+    "text": "ArtPlant Test",
+    "data": {
+      "ru": {
+        "original": "ArtPlant Test",
+        "translation": "ArtPlant Test"
+      },
+      "es": {
+        "original": "ArtPlant Test",
+        "translation": "ArtPlant Test"
+      },
+      "de": {
+        "original": "ArtPlant Test",
+        "translation": "ArtPlant Test"
+      },
+      "pt": {
+        "original": "ArtPlant Test",
+        "translation": "ArtPlant Test"
+      },
+      "fr": {
+        "original": "ArtPlant Test",
+        "translation": "ArtPlant Test"
+      }
+    }
+  },
+  "description": {
+    "text": "Internal test map for ArtPlant, notify before changing",
+    "data": {
+      "ru": {
+        "original": "Internal test map for ArtPlant, notify before changing",
+        "translation": "Internal test map for ArtPlant, notify before changing"
+      },
+      "es": {
+        "original": "Internal test map for ArtPlant, notify before changing",
+        "translation": "Internal test map for ArtPlant, notify before changing"
+      },
+      "de": {
+        "original": "Internal test map for ArtPlant, notify before changing",
+        "translation": "Internal test map for ArtPlant, notify before changing"
+      },
+      "pt": {
+        "original": "Internal test map for ArtPlant, notify before changing",
+        "translation": "Internal test map for ArtPlant, notify before changing"
+      },
+      "fr": {
+        "original": "Internal test map for ArtPlant, notify before changing",
+        "translation": "Internal test map for ArtPlant, notify before changing"
+      }
+    }
+  },
+  "image": "http://static1.squarespace.com/static/54eb2881e4b0e3df8c17eb52/t/5566cd07e4b05ecb06da2831/1432800521404/?format=1000w",
+  "large_image": "http://static1.squarespace.com/static/54eb2881e4b0e3df8c17eb52/t/5566cd07e4b05ecb06da2831/1432800521404/?format=1000w"
+}

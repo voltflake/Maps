@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_maze",
+  "scope": "public",
+  "name": {
+    "text": "[DRAFT] Maze",
+    "data": {
+      "es": {
+        "original": "[DRAFT] Maze",
+        "translation": "[DRAFT] Maze"
+      },
+      "fr": {
+        "original": "[DRAFT] Maze",
+        "translation": "[DRAFT] Maze"
+      },
+      "de": {
+        "original": "[DRAFT] Maze",
+        "translation": "[DRAFT] Maze"
+      },
+      "pt": {
+        "original": "[DRAFT] Maze",
+        "translation": "[DRAFT] Maze"
+      },
+      "ru": {
+        "original": "[DRAFT] Maze",
+        "translation": "[DRAFT] Maze"
+      }
+    }
+  },
+  "description": {
+    "text": "[DRAFT] An amazing arena.",
+    "data": {
+      "es": {
+        "original": "[DRAFT] An amazing arena.",
+        "translation": "[DRAFT] Un escenario asombroso."
+      },
+      "fr": {
+        "original": "[DRAFT] An amazing arena.",
+        "translation": "[DRAFT] Une carte labyrinthique."
+      },
+      "de": {
+        "original": "[DRAFT] An amazing arena.",
+        "translation": "[DRAFT] Ein verrücktes Labyrinth."
+      },
+      "ru": {
+        "original": "[DRAFT] An amazing arena.",
+        "translation": "[DRAFT] An amazing arena."
+      },
+      "pt": {
+        "original": "[DRAFT] An amazing arena.",
+        "translation": "[DRAFT] Uma arena espetacular."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-build-101",
+  "large_image": "Gui/Maps/arena-build-101"
+}

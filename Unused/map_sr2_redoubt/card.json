@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_redoubt",
+  "scope": "public",
+  "name": {
+    "text": "[DRAFT] Redoubt",
+    "data": {
+      "ru": {
+        "original": "[DRAFT] Redoubt",
+        "translation": "[DRAFT] Redoubt"
+      },
+      "es": {
+        "original": "[DRAFT] Redoubt",
+        "translation": "[DRAFT] Redoubt"
+      },
+      "de": {
+        "original": "[DRAFT] Redoubt",
+        "translation": "[DRAFT] Redoubt"
+      },
+      "pt": {
+        "original": "[DRAFT] Redoubt",
+        "translation": "[DRAFT] Redoubt"
+      },
+      "fr": {
+        "original": "[DRAFT] Redoubt",
+        "translation": "[DRAFT] Redoubt"
+      }
+    }
+  },
+  "description": {
+    "text": "[DRAFT]",
+    "data": {
+      "ru": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "es": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "de": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "pt": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "fr": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-block-docks",
+  "large_image": "Gui/Maps/arena-block-docks"
+}

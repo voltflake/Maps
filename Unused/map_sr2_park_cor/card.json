@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_park_cor",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Park Cor!",
+    "data": {
+      "es": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "fr": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "de": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "pt": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "ru": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) Park Cor!",
+    "data": {
+      "es": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "fr": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "de": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "pt": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      },
+      "ru": {
+        "original": "(DRAFT) Park Cor!",
+        "translation": "(DRAFT) Park Cor!"
+      }
+    }
+  },
+  "image": "Gui/Maps/Block-Keep",
+  "large_image": "Gui/Maps/Block-Keep"
+}

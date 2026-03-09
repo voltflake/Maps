@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_brick_block",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Brick Block",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Brick Block",
+        "translation": "(DRAFT) Brick Block"
+      },
+      "es": {
+        "original": "(DRAFT) Brick Block",
+        "translation": "(DRAFT) Brick Block"
+      },
+      "de": {
+        "original": "(DRAFT) Brick Block",
+        "translation": "(DRAFT) Brick Block"
+      },
+      "fr": {
+        "original": "(DRAFT) Brick Block",
+        "translation": "(DRAFT) Brick Block"
+      },
+      "pt": {
+        "original": "(DRAFT) Brick Block",
+        "translation": "(DRAFT) Brick Block"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) ",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "es": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "de": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT) "
+      },
+      "fr": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "pt": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      }
+    }
+  },
+  "image": "Gui/Maps/Block-Keep",
+  "large_image": "Gui/Maps/Block-Keep"
+}

@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_aztec_temple",
+  "scope": "public",
+  "name": {
+    "text": "Aztec Temple",
+    "data": {
+      "es": {
+        "original": "Aztec Temple",
+        "translation": "Aztec Temple"
+      },
+      "fr": {
+        "original": "Aztec Temple",
+        "translation": "Aztec Temple"
+      },
+      "de": {
+        "original": "Aztec Temple",
+        "translation": "Aztec Temple"
+      },
+      "pt": {
+        "original": "Aztec Temple",
+        "translation": "Aztec Temple"
+      },
+      "ru": {
+        "original": "Aztec Temple",
+        "translation": "Aztec Temple"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {
+      "es": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "fr": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "de": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "ru": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "pt": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      }
+    }
+  },
+  "image": "",
+  "large_image": ""
+}

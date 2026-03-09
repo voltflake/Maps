@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_block_avenue",
+  "scope": "public",
+  "name": {
+    "text": "(DRAFT) Block Avenue",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) Block Avenue",
+        "translation": "(DRAFT) Block Avenue"
+      },
+      "es": {
+        "original": "(DRAFT) Block Avenue",
+        "translation": "(DRAFT) Block Avenue"
+      },
+      "de": {
+        "original": "(DRAFT) Block Avenue",
+        "translation": "(DRAFT) Block Avenue"
+      },
+      "fr": {
+        "original": "(DRAFT) Block Avenue",
+        "translation": "(DRAFT) Block Avenue"
+      },
+      "pt": {
+        "original": "(DRAFT) Block Avenue",
+        "translation": "(DRAFT) Block Avenue"
+      }
+    }
+  },
+  "description": {
+    "text": "(DRAFT) ",
+    "data": {
+      "ru": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "es": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "de": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT) "
+      },
+      "fr": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      },
+      "pt": {
+        "original": "(DRAFT) ",
+        "translation": "(DRAFT)"
+      }
+    }
+  },
+  "image": "Gui/Maps/Block-Keep",
+  "large_image": "Gui/Maps/Block-Keep"
+}

@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_skyscrappers_olivier",
+  "scope": "public",
+  "name": {
+    "text": "Draft - Skyscrappers Oliver",
+    "data": {
+      "es": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "fr": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "de": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "pt": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "ru": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      }
+    }
+  },
+  "description": {
+    "text": "Draft - Skyscrappers Oliver",
+    "data": {
+      "es": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "fr": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "de": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "ru": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      },
+      "pt": {
+        "original": "Draft - Skyscrappers Oliver",
+        "translation": "Draft - Skyscrappers Oliver"
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-crate-escape",
+  "large_image": "Gui/Maps/arena-crate-escape"
+}

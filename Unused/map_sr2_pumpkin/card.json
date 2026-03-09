@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_pumpkin",
+  "scope": "public",
+  "name": {
+    "text": "Pumpkin",
+    "data": {
+      "es": {
+        "original": "Pumpkin",
+        "translation": "Pumpkin"
+      },
+      "fr": {
+        "original": "Pumpkin",
+        "translation": "Pumpkin"
+      },
+      "de": {
+        "original": "Pumpkin",
+        "translation": "Pumpkin"
+      },
+      "pt": {
+        "original": "Pumpkin",
+        "translation": "Pumpkin"
+      },
+      "ru": {
+        "original": "Pumpkin",
+        "translation": "Pumpkin"
+      }
+    }
+  },
+  "description": {
+    "text": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+    "data": {
+      "es": {
+        "original": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+        "translation": "Un escenario lleno de maldades para engañar al enemigo.\nUn núcleo."
+      },
+      "fr": {
+        "original": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+        "translation": "Une arène pleine de malice, parfaite pour jouer des tours à vos adversaires. Une base."
+      },
+      "de": {
+        "original": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+        "translation": "Eine süße Arena, die es euch ermöglicht, euren Gegnern Saures zu geben. Eine Basis."
+      },
+      "ru": {
+        "original": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+        "translation": "Эта арена — настоящий подарок для любителей бить врага не силой, а хитростью. Одна база."
+      },
+      "pt": {
+        "original": "A real treat of an arena with plenty of opportunities to play tricks on your opponents. One Base. ",
+        "translation": "Uma gostosura de arena com um monte de oportunidades para fazer travessuras com seus oponentes. Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-pumpkin-thumb",
+  "large_image": "Gui/Maps/arena-pumpkin-full"
+}

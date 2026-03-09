@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_pixel_block",
+  "scope": "public",
+  "name": {
+    "text": "Pixel Block",
+    "data": {
+      "ru": {
+        "original": "Pixel Block",
+        "translation": "Pixel Block"
+      },
+      "es": {
+        "original": "Pixel Block",
+        "translation": "Pixel Block"
+      },
+      "de": {
+        "original": "Pixel Block",
+        "translation": "Pixel Block"
+      },
+      "fr": {
+        "original": "Pixel Block",
+        "translation": "Pixel Block"
+      },
+      "pt": {
+        "original": "Pixel Block",
+        "translation": "Pixel Block"
+      }
+    }
+  },
+  "description": {
+    "text": "Turn your foes in to dead pixels. One Base.",
+    "data": {
+      "ru": {
+        "original": "Turn your foes in to dead pixels. One Base.",
+        "translation": "Сделай из врагов битые пиксели. Одна база."
+      },
+      "es": {
+        "original": "Turn your foes in to dead pixels. One Base.",
+        "translation": "Convierte a tus rivales en píxeles muertos.\nUn núcleo."
+      },
+      "de": {
+        "original": "Turn your foes in to dead pixels. One Base.",
+        "translation": "Verwandelt eure Gegner in tote Pixel. Eine Basis."
+      },
+      "fr": {
+        "original": "Turn your foes in to dead pixels. One Base.",
+        "translation": "Transformez vos ennemis en pixels morts. Une base."
+      },
+      "pt": {
+        "original": "Turn your foes in to dead pixels. One Base.",
+        "translation": "Transforme seus inimigos em pixels mortos. Uma Base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-pixel-block",
+  "large_image": "Gui/Maps/arena-pixel-block"
+}

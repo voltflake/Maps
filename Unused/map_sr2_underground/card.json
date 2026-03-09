@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_underground",
+  "scope": "public",
+  "name": {
+    "text": "(Draft) Underground",
+    "data": {
+      "ru": {
+        "original": "(Draft) Underground",
+        "translation": "(Draft) Underground"
+      },
+      "es": {
+        "original": "(Draft) Underground",
+        "translation": "(DRAFT) Underground"
+      },
+      "de": {
+        "original": "(Draft) Underground",
+        "translation": "(Draft) Underground"
+      },
+      "pt": {
+        "original": "(Draft) Underground",
+        "translation": "(Draft) Underground"
+      },
+      "fr": {
+        "original": "(Draft) Underground",
+        "translation": "(Draft) Underground"
+      }
+    }
+  },
+  "description": {
+    "text": "(Draft) One Base.",
+    "data": {
+      "ru": {
+        "original": "(Draft) One Base.",
+        "translation": "(Draft) One Base."
+      },
+      "es": {
+        "original": "(Draft) One Base.",
+        "translation": "(DRAFT) Un núcleo."
+      },
+      "de": {
+        "original": "(Draft) One Base.",
+        "translation": "(Draft) Eine Basis."
+      },
+      "pt": {
+        "original": "(Draft) One Base.",
+        "translation": "(Draft) Uma Base."
+      },
+      "fr": {
+        "original": "(Draft) One Base.",
+        "translation": "(Draft) Une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-underground",
+  "large_image": "Gui/Maps/arena-underground"
+}

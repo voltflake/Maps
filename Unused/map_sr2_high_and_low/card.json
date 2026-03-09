@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_high_and_low",
+  "scope": "public",
+  "name": {
+    "text": "High and Low",
+    "data": {
+      "ru": {
+        "original": "High and Low",
+        "translation": "High and Low"
+      },
+      "es": {
+        "original": "High and Low",
+        "translation": "High and Low"
+      },
+      "de": {
+        "original": "High and Low",
+        "translation": "High and Low"
+      },
+      "pt": {
+        "original": "High and Low",
+        "translation": "High and Low"
+      },
+      "fr": {
+        "original": "High and Low",
+        "translation": "High and Low"
+      }
+    }
+  },
+  "description": {
+    "text": "Confined arena with routes on different levels. One Base.",
+    "data": {
+      "ru": {
+        "original": "Confined arena with routes on different levels. One Base.",
+        "translation": "Крытое поле боя с коридорами на всех уровнях. Одна база."
+      },
+      "es": {
+        "original": "Confined arena with routes on different levels. One Base.",
+        "translation": "Un escenario de espacio limitado y varios niveles. Un núcleo."
+      },
+      "de": {
+        "original": "Confined arena with routes on different levels. One Base.",
+        "translation": "Eine begrenzte Arena mit Routen auf verschiedenen Ebenen. Eine Basis."
+      },
+      "pt": {
+        "original": "Confined arena with routes on different levels. One Base.",
+        "translation": "Área confinada com rotas em diversos planos. Uma Base."
+      },
+      "fr": {
+        "original": "Confined arena with routes on different levels. One Base.",
+        "translation": "Une arène confinée avec des passages à tous les niveaux. Une base."
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-high-and-low-thumb",
+  "large_image": "Gui/Maps/arena-high-and-low-full"
+}

@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_sr2_under_siege",
+  "scope": "public",
+  "name": {
+    "text": "[DRAFT] Under Siege",
+    "data": {
+      "ru": {
+        "original": "[DRAFT] Under Siege",
+        "translation": "[DRAFT] Under Siege"
+      },
+      "es": {
+        "original": "[DRAFT] Under Siege",
+        "translation": "[DRAFT] Under Siege"
+      },
+      "de": {
+        "original": "[DRAFT] Under Siege",
+        "translation": "[DRAFT] Under Siege"
+      },
+      "pt": {
+        "original": "[DRAFT] Under Siege",
+        "translation": "[DRAFT] Under Siege"
+      },
+      "fr": {
+        "original": "[DRAFT] Under Siege",
+        "translation": "[DRAFT] Under Siege"
+      }
+    }
+  },
+  "description": {
+    "text": "[DRAFT]",
+    "data": {
+      "ru": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "es": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "de": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "pt": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      },
+      "fr": {
+        "original": "[DRAFT]",
+        "translation": "[DRAFT]"
+      }
+    }
+  },
+  "image": "Gui/Maps/arena-block-docks",
+  "large_image": "Gui/Maps/arena-block-docks"
+}
