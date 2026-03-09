@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_tt_cogwheel",
+  "scope": "public",
+  "name": {
+    "text": "Metal Monstrosity",
+    "data": {
+      "de": {
+        "original": "Metal Monstrosity",
+        "translation": "Metal Monstrosity"
+      },
+      "pt": {
+        "original": "Metal Monstrosity",
+        "translation": "Metal Monstrosity"
+      },
+      "es": {
+        "original": "Metal Monstrosity",
+        "translation": "Monstruosidad metálica"
+      },
+      "ru": {
+        "original": "Metal Monstrosity",
+        "translation": "Metal Monstrosity"
+      },
+      "fr": {
+        "original": "Metal Monstrosity",
+        "translation": "Metal Monstrosity"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {
+      "es": {
+        "original": "",
+        "translation": ""
+      },
+      "de": {
+        "original": "",
+        "translation": ""
+      },
+      "fr": {
+        "original": "",
+        "translation": ""
+      },
+      "ru": {
+        "original": "",
+        "translation": ""
+      },
+      "pt": {
+        "original": "",
+        "translation": ""
+      }
+    }
+  },
+  "image": "",
+  "large_image": ""
+}

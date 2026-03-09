@@ -1,0 +1,36 @@
+{
+  "category": "map",
+  "_id": "map_tt_genie",
+  "scope": "public",
+  "name": {
+    "text": "Path to Light",
+    "data": {
+      "pt": {
+        "original": "Path to Light",
+        "translation": "Path to Light"
+      },
+      "es": {
+        "original": "Path to Light",
+        "translation": "Sendero hacia la luz"
+      },
+      "de": {
+        "original": "Path to Light",
+        "translation": "Weg des Lichts"
+      },
+      "ru": {
+        "original": "Path to Light",
+        "translation": "Path to Light"
+      },
+      "fr": {
+        "original": "Path to Light",
+        "translation": "Path to Light"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {}
+  },
+  "image": "",
+  "large_image": ""
+}

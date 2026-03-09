@@ -100,3 +100,11 @@ Nascar's Additions:
 - [x] map_sr2_wilsons_edit
 - [x] map_sr2_wilsons_lagoon
 - [x] map_sr2_youtube_sandy
+
+Time Trials:
+- [x] map_tt_boxer
+- [x] map_tt_cogwheel
+- [x] map_tt_genie
+- [x] map_tt_nick_maze_test
+- [x] map_tt_nigel
+- [x] map_tt_tony

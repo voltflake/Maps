@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_tt_nick_maze_test",
+  "scope": "public",
+  "name": {
+    "text": "Time Assault",
+    "data": {
+      "es": {
+        "original": "Time Assault",
+        "translation": "Modo contrarreloj"
+      },
+      "de": {
+        "original": "Time Assault",
+        "translation": "Zeitangriff"
+      },
+      "ru": {
+        "original": "Time Assault",
+        "translation": "Блиц-игра"
+      },
+      "fr": {
+        "original": "Time Assault",
+        "translation": "Contre-la-montre"
+      },
+      "pt": {
+        "original": "Time Assault",
+        "translation": "Assalto Contrarrelógio"
+      }
+    }
+  },
+  "description": {
+    "text": "Time Assault",
+    "data": {
+      "es": {
+        "original": "Time Assault",
+        "translation": "Modo contrarreloj"
+      },
+      "de": {
+        "original": "Time Assault",
+        "translation": "Zeitangriff"
+      },
+      "ru": {
+        "original": "Time Assault",
+        "translation": "Блиц-игра"
+      },
+      "fr": {
+        "original": "Time Assault",
+        "translation": "Contre-la-montre"
+      },
+      "pt": {
+        "original": "Time Assault",
+        "translation": "Assalto Contrarrelógio"
+      }
+    }
+  },
+  "image": "Gui/Maps/eliza-labs-thumb",
+  "large_image": "Gui/Maps/eliza-labs-full"
+}

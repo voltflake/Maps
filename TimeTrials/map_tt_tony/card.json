@@ -1,0 +1,36 @@
+{
+  "category": "map",
+  "_id": "map_tt_tony",
+  "scope": "public",
+  "name": {
+    "text": "Danger: Construction Zone",
+    "data": {
+      "pt": {
+        "original": "Danger: Construction Zone",
+        "translation": "Danger: Construction Zone"
+      },
+      "es": {
+        "original": "Danger: Construction Zone",
+        "translation": "Peligro, construcción"
+      },
+      "de": {
+        "original": "Danger: Construction Zone",
+        "translation": "Danger: Construction Zone"
+      },
+      "ru": {
+        "original": "Danger: Construction Zone",
+        "translation": "Danger: Construction Zone"
+      },
+      "fr": {
+        "original": "Danger: Construction Zone",
+        "translation": "Danger: Construction Zone"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {}
+  },
+  "image": "",
+  "large_image": ""
+}

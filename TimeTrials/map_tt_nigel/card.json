@@ -1,0 +1,36 @@
+{
+  "category": "map",
+  "_id": "map_tt_nigel",
+  "scope": "public",
+  "name": {
+    "text": "Raiders of the Lost Block",
+    "data": {
+      "de": {
+        "original": "Raiders of the Lost Block",
+        "translation": "Raiders of the Lost Block"
+      },
+      "es": {
+        "original": "Raiders of the Lost Block",
+        "translation": "Cazadores del bloque perdido"
+      },
+      "pt": {
+        "original": "Raiders of the Lost Block",
+        "translation": "Raiders of the Lost Block"
+      },
+      "ru": {
+        "original": "Raiders of the Lost Block",
+        "translation": "Raiders of the Lost Block"
+      },
+      "fr": {
+        "original": "Raiders of the Lost Block",
+        "translation": "Raiders of the Lost Block"
+      }
+    }
+  },
+  "description": {
+    "text": "",
+    "data": {}
+  },
+  "image": "",
+  "large_image": ""
+}

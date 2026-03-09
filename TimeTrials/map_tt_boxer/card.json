@@ -1,0 +1,57 @@
+{
+  "category": "map",
+  "_id": "map_tt_boxer",
+  "scope": "public",
+  "name": {
+    "text": "Luftschloss",
+    "data": {
+      "de": {
+        "original": "Luftschloss",
+        "translation": "Luftschloss"
+      },
+      "pt": {
+        "original": "Luftschloss",
+        "translation": "Luftschloss"
+      },
+      "es": {
+        "original": "Luftschloss",
+        "translation": "Luftschloss"
+      },
+      "ru": {
+        "original": "Luftschloss",
+        "translation": "Luftschloss"
+      },
+      "fr": {
+        "original": "Luftschloss",
+        "translation": "Luftschloss"
+      }
+    }
+  },
+  "description": {
+    "text": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+    "data": {
+      "es": {
+        "original": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+        "translation": "<color=\"#cf9736\">Desafío:</color> Luftschloss\n<color=\"#cf9736\">Personaje:</color> Sweet Science\n\nRecorre el castillo secreto de Sweet Science, un lugar lleno de trampas, como era de esperar de un hombre tan peligroso."
+      },
+      "de": {
+        "original": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+        "translation": "<color=“#cf9736“>Parcours:</color> Luftschloss\n<color=“#cf9736“>Held:</color> Sweet Science\n\nDie geheime Trainingsbasis von Sweet Science ist voller Fallen. Es wird wohl niemanden groß überraschen, dass ein gefährlicher Mann auch ein gefährliches Zuhause hat."
+      },
+      "fr": {
+        "original": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+        "translation": "<color=\"#cf9736\">Parcours :</color> Luftschloss\n<color=\"#cf9736\">Héros :</color> Sweet Science\n\nLa base d'entraînement secrète de Sweet Science est truffée de pièges. Mais ça n'étonnera personne : tout castagneur qui se respecte se doit d'avoir un chez-lui tout aussi dangereux !"
+      },
+      "ru": {
+        "original": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+        "translation": "<color=\"#cf9736\">Карта:</color> Luftschloss\n<color=\"#cf9736\">Герой:</color> Sweet Science\n\nСекретная тренировочная база Sweet Science полна ловушек. Удивляться тут нечему: у опасного человека должен быть опасный дом."
+      },
+      "pt": {
+        "original": "<color=\"#cf9736\">Course:</color> Luftschloss\n<color=\"#cf9736\">Hero:</color> Sweet Science\n\nSweet Science’s secret training base is full of traps. No surprise there - a dangerous man is bound to have a dangerous home.",
+        "translation": "<color=\"#cf9736\">Percurso:</color> Luftschloss\n<color=\"#cf9736\">Herói:</color> Sweet Science\n\nA base secreta de treinamento de Sweet Science é cheia de armadilhas. Isso não é surpresa nenhuma - um homem perigoso há de ter uma casa perigosa."
+      }
+    }
+  },
+  "image": "",
+  "large_image": ""
+}
