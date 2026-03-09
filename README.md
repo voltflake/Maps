@@ -1,6 +1,9 @@
 > [!NOTE]  
 > All maps should be saved in a way that is compatible with original 2025 bnl cdb. The only exeption to this rule is "map_pvp" map, mainly for testing purposes.
 
+> [!NOTE]  
+> Map lists for different game modes and servers can be found in [MapLists folder](MapLists).
+
 Originals:
 - [x] map_sr2_wilsons_bay
 - [x] map_sr2_up_n_over
