@@ -1,9 +1,19 @@
+### How can I edit a map from this repository?
+If you want to edit any map you can do that by converting it with a python script like so:
+```
+python json2bnlbin.py -i MidEdits/map_sr2_beach_base_new -o map_sr2_beach_base_mid_edit.bnlbin
+```
+Then place resulted file into `BlockNLoad/UserData/CustomMaps` folder and open it in Map Editor.
+
+---
 > [!NOTE]  
-> All maps should be saved in a way that is compatible with original 2025 bnl cdb. The only exeption to this rule is "map_pvp" map, mainly for testing purposes.
+> Map pools for different game modes and servers can be found in [MapLists folder](MapLists).  
 
 > [!NOTE]  
-> Map lists for different game modes and servers can be found in [MapLists folder](MapLists).
+> All maps in this repository should be saved in a way that is compatible with original 2025 BNL cdb.  
+> The only exeption to this rule is "map_pvp" map, mainly for testing purposes.
 
+### Available maps
 Originals:
 - [x] map_sr2_wilsons_bay
 - [x] map_sr2_up_n_over
