@@ -1,3 +1,6 @@
+> [!NOTE]  
+> All maps should be saved in a way that is compatible with original 2025 bnl cdb. The only exeption to this rule is "map_pvp" map, mainly for testing purposes.
+
 Originals:
 - [x] map_sr2_wilsons_bay
 - [x] map_sr2_up_n_over
@@ -48,6 +51,7 @@ Originals:
 - [ ] map_sr2_assembly
 
 Paul's Additions:
+- [x] map_pvp
 - [x] map_sc_heroes_causeway
 - [x] map_sc_mountain_express
 - [x] map_sr2_mountain_express_night
@@ -55,19 +59,19 @@ Paul's Additions:
 - [x] map_sr2_tower
 
 Mid Edits:
-- [ ] map_sr2_beach_base_new
-- [ ] map_sr2_get_cutting_mid_edit
-- [ ] map_sr2_island_ruins_mid_edit
-- [ ] map_sr2_mount_olympus_mid_edit
-- [ ] map_sr2_mountain_express_mid_edit
-- [ ] map_sr2_olympia_mid_edit
-- [ ] map_sr2_pipe_mania_mid_edit
-- [ ] map_sr2_prifddinas_mid_edit
-- [ ] map_sr2_sandy_shores_mid_edit
-- [ ] map_sr2_sky_bridge_mid_edit
-- [ ] map_sr2_stone_temple_mid_edit
-- [ ] map_sr2_the_last_bastion_mid_edit
-- [ ] map_sr2_wilsons_bay_mid_edit
+- [x] map_sr2_beach_base_new
+- [x] map_sr2_get_cutting_mid_edit
+- [x] map_sr2_island_ruins_mid_edit
+- [x] map_sr2_mount_olympus_mid_edit
+- [x] map_sr2_mountain_express_mid_edit
+- [x] map_sr2_olympia_mid_edit
+- [x] map_sr2_pipe_mania_mid_edit
+- [x] map_sr2_prifddinas_mid_edit
+- [x] map_sr2_sandy_shores_mid_edit
+- [x] map_sr2_sky_bridge_mid_edit
+- [x] map_sr2_stone_temple_mid_edit
+- [x] map_sr2_the_last_bastion_mid_edit
+- [x] map_sr2_wilsons_bay_mid_edit
 
 Nascar's Additions:
 - [x] map_sr2_block_n_keep
