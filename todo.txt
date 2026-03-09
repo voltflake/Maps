@@ -1,61 +1,62 @@
 Originals:
-[X] - map_sr2_beach_base
-[X] - map_sr2_block
-[X] - map_sr2_block_docks
-[X] - map_sr2_block_keep
-[X] - map_sr2_blockageddon
-[X] - map_sr2_build_101
-[X] - map_sr2_citadel
-[X] - map_sr2_cogs_grog
-[X] - map_sr2_duck_and_cover
-[X] - map_sr2_fort_argent
-[X] - map_sr2_front_lines
-[X] - map_sr2_gate_house
-[X] - map_sr2_heroes_causeway
-[X] - map_sr2_independence
-[X] - map_sr2_king_of_the_castle
-[X] - map_sr2_kreepys_circus
-[X] - map_sr2_lake_house
-[X] - map_sr2_mount_olympus
-[X] - map_sr2_mountain_express
-[X] - map_sr2_olympia
-[X] - map_sr2_parapet
-[X] - map_sr2_phaeton_complex
-[X] - map_sr2_pillerd
-[X] - map_sr2_prifddinas
-[X] - map_sr2_processing_plant
-[X] - map_sr2_sandy_shores
-[X] - map_sr2_search_and_destroy
-[X] - map_sr2_shuko_style
-[X] - map_sr2_skull_block
-[X] - map_sr2_sky_bridge
-[X] - map_sr2_sphinx
-[X] - map_sr2_steadfast
-[X] - map_sr2_stone_temple
-[X] - map_sr2_stronghold_novice
-[X] - map_sr2_tiki_tower
-[X] - map_sr2_traverse
-[X] - map_sr2_up_n_over
 [X] - map_sr2_wilsons_bay
-[ ] - map_sr2_assembly
-[ ] - map_sr2_beach_bash
-[ ] - map_sr2_blocky_resort
-[ ] - map_sr2_courtyard
-[ ] - map_sr2_cruise_boat
-[X] - map_sr2_eco_city
-[ ] - map_sr2_erosion
-[ ] - map_sr2_terrace
+[X] - map_sr2_up_n_over
+[X] - map_sr2_traverse
+[X] - map_sr2_tiki_tower
 [X] - map_sr2_the_factory
+[X] - map_sr2_stronghold_novice
+[X] - map_sr2_stone_temple
+[X] - map_sr2_steadfast
+[X] - map_sr2_sphinx
+[X] - map_sr2_sky_bridge
+[X] - map_sr2_skull_block
+[X] - map_sr2_shuko_style
+[X] - map_sr2_search_and_destroy
+[X] - map_sr2_sandy_shores
+[X] - map_sr2_processing_plant
+[X] - map_sr2_prifddinas
+[X] - map_sr2_pillerd
+[X] - map_sr2_phaeton_complex
+[X] - map_sr2_parapet
+[X] - map_sr2_olympia
+[X] - map_sr2_mountain_express
+[X] - map_sr2_mount_olympus
+[X] - map_sr2_lake_house
+[X] - map_sr2_kreepys_circus
+[X] - map_sr2_king_of_the_castle
+[X] - map_sr2_independence
+[X] - map_sr2_heroes_causeway
+[X] - map_sr2_gate_house
+[X] - map_sr2_front_lines
+[X] - map_sr2_fort_argent
+[X] - map_sr2_eco_city
+[X] - map_sr2_duck_and_cover
+[X] - map_sr2_cogs_grog
+[X] - map_sr2_citadel
+[X] - map_sr2_build_101
+[X] - map_sr2_blockageddon
+[X] - map_sr2_block_keep
+[X] - map_sr2_block_docks
+[X] - map_sr2_block
+[X] - map_sr2_beach_base
+[X] - [NEW] map_sr2_cruise_boat
+[X] - [NEW, may be broken] map_sr2_beach_bash
+[ ] - map_sr2_terrace
+[ ] - map_sr2_erosion
+[ ] - map_sr2_courtyard
+[ ] - map_sr2_blocky_resort
+[ ] - map_sr2_assembly
 
 Paul's exlusives:
 [X] - map_sc_heroes_causeway
 [X] - map_sc_mountain_express
-[X] - map_sr2_tower
-[X] - map_sr2_the_last_bastion
 [X] - map_sr2_mountain_express_night
-[ ] - map_sr2_beach_base_new
+[X] - map_sr2_the_last_bastion
+[X] - map_sr2_tower
 
 Mid edits:
+[ ] - map_sr2_beach_base_new
+[ ] - map_sr2_get_cutting_mid_edit
 [ ] - map_sr2_island_ruins_mid_edit
 [ ] - map_sr2_mount_olympus_mid_edit
 [ ] - map_sr2_mountain_express_mid_edit
@@ -66,5 +67,4 @@ Mid edits:
 [ ] - map_sr2_sky_bridge_mid_edit
 [ ] - map_sr2_stone_temple_mid_edit
 [ ] - map_sr2_the_last_bastion_mid_edit
-[ ] - map_sr2_get_cutting_mid_edit
 [ ] - map_sr2_wilsons_bay_mid_edit
