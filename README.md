@@ -57,9 +57,9 @@ Originals:
 - [x] map_sr2_beach_base
 - [x] [NEW] map_sr2_cruise_boat
 - [x] [NEW] map_sr2_beach_bash (color and block data may be out of date)
-- [ ] map_sr2_terrace
-- [ ] map_sr2_erosion
-- [ ] map_sr2_courtyard
+- [x] [NEW] map_sr2_terrace
+- [x] [NEW] map_sr2_erosion
+- [x] [NEW] map_sr2_courtyard
 - [ ] map_sr2_blocky_resort
 - [ ] map_sr2_assembly
 
